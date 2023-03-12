@@ -1,6 +1,6 @@
 ## Hello! My name is John.👋
 
-- 🏫 I'm studying Systems Analysis and Development in college.
+- 🏫 I'm studying Systems Analysis and Development in college. I will graduate in the second half of 2023.
 - 🌱 My training includes disciplines in security and systems auditing, software engineering, analysis and object-oriented programming, interface and usability, programming and database development, cloud computing, mobile development and web programming.
 ##
 
