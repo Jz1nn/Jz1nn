@@ -29,3 +29,11 @@
   <a href = "mailto:jz1nnwln@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jz1nnwln/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Main projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=Dashboard-faturamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/Dashboard-faturamento)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=alexa-chatgpt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/alexa-chatgpt)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=django-public&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/django-public)
+# 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jz1nn&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
