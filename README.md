@@ -1,14 +1,6 @@
 ## Hello! My name is John.👋
 
-- 🏫 I'm studying Systems Analysis and Development in college. I will graduate in the second half of 2023.
-- 🌱 My training includes disciplines in security and systems auditing, software engineering, analysis and object-oriented programming, interface and usability, programming and database development, cloud computing, mobile development and web programming.
-##
 
-## 👤 About me
-- 🔍 From an early age I developed a strong interest in technology and problem solving, developing a critical view of the processes and tasks I performed, even before joining a technology course.
-- 🧠 During my teens and early adulthood, I honed my reading and code comprehension skills to solve problems similar to the ones I faced, both in games and in my job at an Internet Service Provider. This path gave me a growing ability to adapt, solve challenges and work as a team.
-- 🧑🏽‍💻 Currently, I am focused on acquiring knowledge in the programming area to apply my full potential in developing my own innovative solutions.
-- 🫡 My best qualities involve leadership, encouragement and empathy, along with a strong sense of perfectionism and practicality, which helps me understand users' needs and deliver products with high quality and efficiency. I look forward to documenting and sharing my upcoming accomplishments with the tech community.
 <div>
 <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jz1nn&theme=gotham&show_icons=true&count_private=true&line_height=27" alt="**John Willian** github stats"/>
 </a>
