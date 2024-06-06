@@ -24,8 +24,8 @@
 
 ## Main projects
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=data_analysis_curry_company&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/data_analysis_curry_company)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=Dashboard-faturamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/Dashboard-faturamento)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=alexa-chatgpt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/alexa-chatgpt)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jz1nn&repo=django-public&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jz1nn/django-public)
 # 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jz1nn&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
