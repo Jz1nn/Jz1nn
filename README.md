@@ -40,8 +40,6 @@ I'm a Data Scientist, graduated in Analysis and Developing Systems with Post Deg
   <a href = "mailto:jz1nnwln@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
 ## Projects Portfolio
 
   * [Portfolio](https://jz1nn.github.io/portfolio_projetos/)
