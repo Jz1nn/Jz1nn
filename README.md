@@ -12,7 +12,6 @@ I'm a Data Scientist, graduated in Analysis and Developing Systems with Post Deg
 </div>
 <div style="display: inline_block"><br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jz1nn&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
   
 ## Some Tools that I work with
   <!-- Tools  -->
