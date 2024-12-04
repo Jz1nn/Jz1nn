@@ -44,8 +44,10 @@ I'm a Data Scientist, graduated in Analysis and Developing Systems with Post Deg
 ## Projects Portfolio
 
   * [Portfolio](https://jz1nn.github.io/portfolio_projetos/)
-  * [Data Analysis Curry Company](https://github.com/Jz1nn/data_analysis_curry_company)
+  * [Machine Learning Test](https://github.com/Jz1nn/ensaio-machine-learning)
   * [Data Analysis Fome Zero](https://github.com/Jz1nn/data_analysis_fome_zero)
+  * [Customer Satisfaction Analysis](https://github.com/Jz1nn/sentiment_analyser)
+  * [Data Analysis Curry Company](https://github.com/Jz1nn/data_analysis_curry_company)
   * [Dashboard Faturamento](https://github.com/Jz1nn/Dashboard-faturamento)
 
 ## 📖 I’m currently learning about
