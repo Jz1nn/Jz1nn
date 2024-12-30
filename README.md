@@ -2,7 +2,7 @@
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 # John Willian
-<em>Cientista de Dados</em>
+<em>Data Scientist</em>
 
 <p>Graduated in Systems Analysis and Development, Postgraduate in Data Science and Big Data.
 Currently performs autonomous machine learning and data analysis services, as well as personal data science projects. Acquiring experience in solving business problems and domain on data analysis tools.</p>
