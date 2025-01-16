@@ -32,6 +32,12 @@ Currently performs autonomous machine learning and data analysis services, as we
 
 ## Data Science Projects:
 
+[**Health Insurance Cross-Sell**](https://github.com/Jz1nn/health-insurance)
+<p>Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering a new product to policyholders: car insurance.
+  In this context, Insurance All requests the construction of a model that predicts whether or not the customer would be interested in car insurance. With this solution, the sales team hopes to prioritize people who are most interested in the new product and thus optimize the campaign by only contacting customers who are most likely to make a purchase.</p>
+<p>Made 20.000 calls using the model to ranking the customers, the sale team will call to 17,59% of all interested, about 3 more times that random method.
+  Suposing that each vehicle Insurance was sell at 2000, the mode bring 313.4% percent of result totalizing $4,184,986.</p>
+
 [**Rossman Sales Predict**](https://github.com/Jz1nn/rossmann-store-sales)
 <p> Development of a predictive Machine Learning model to predict sales of the 1,115 Rossmann stores over the next 6 weeks. </p>
 <p>Solution integrated with a remote system: reduced the consultation time for forecasts by 80%, allowing more decisions
